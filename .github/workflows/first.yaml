@@ -28,4 +28,3 @@ jobs:
          pwd
          node -v
          ls -a
-         ls
